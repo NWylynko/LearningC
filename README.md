@@ -1,0 +1,2 @@
+# LearningC
+imma learn C
